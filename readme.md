@@ -5,6 +5,7 @@ We have tested our system with three types of earphones and on both PCs of Windo
 The relationship between the operating distance and error of BPM is shown in: . We believe the operating distance should by less than $1m$. If you want a further operating distance  and accuracy, you can buy our made device. It only costs ￥10.
 
 If you think this code helps you, you can cite us:
+
 @{}
 
 If you have any questions, feel free to contact me at lizhaohui@csu.edu.cn. 
